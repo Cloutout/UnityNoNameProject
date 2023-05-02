@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+// damage test etmek için oluþturuldu silinebilir.
 public class DamageTest : MonoBehaviour
 {
     public AttributesManager playerAtm;
