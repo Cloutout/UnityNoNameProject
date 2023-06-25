@@ -33,7 +33,6 @@ public class InputHandler : MonoBehaviour
     }
   }
   
-  
   public void OnEnable()
   {
     if (inputActions == null)
@@ -64,23 +63,5 @@ public class InputHandler : MonoBehaviour
     mouseX = cameraInput.x;
     mouseY = cameraInput.y;
   }
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
   
 }

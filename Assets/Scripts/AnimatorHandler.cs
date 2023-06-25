@@ -46,8 +46,6 @@ public class AnimatorHandler : MonoBehaviour
         #endregion
         
         
-        
-
         #region Horizontal
 
         float h = 0;
