@@ -10,7 +10,7 @@ public class AttributesManager : MonoBehaviour
     public int armor;
     public float critDamage = 1.5f;
     public float critChance = 0.5f;
-    //TODO:enemy veya karakterin canı 0 ın altına inince ölüm animasyonu devreye girecek
+    //TODO:enemy veya karakterin canÄ± 0 Ä±n altÄ±na inince Ã¶lÃ¼m animasyonu devreye girecek
     public void TakeDamage(int amount)
     {
         health -= amount - (amount * armor/100);
